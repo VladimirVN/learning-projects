@@ -1,2 +1,2 @@
 # learning-projects
-Here are collected some projects on Python from training courses.
+Here are collected some mini-projects on Python from training courses.
